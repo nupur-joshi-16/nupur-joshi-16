@@ -1,14 +1,23 @@
-## 🚀 Hi there! I'm Nupur 👋
+# 👋 Hi, I’m Nupur
 
-🔹 **Aspiring Python Developer** | 💻 Transitioning from UI Design to Development | 🎯 Committed to Continuous Learning  
+🚀 **Project: restart-42**  
+I’m on a mission to reinvent myself. After years in design, I’ve decided to start over — not just professionally, but personally. `restart-42` is my journey to grow, build discipline, and become a confident programmer from the ground up.
 
-Welcome to my GitHub! I'm on a journey to master **Python** and build real-world projects. Currently, I'm taking the **#100DaysOfCode** challenge and documenting my progress in my repository **DevCrumb**.
+💻 **What I’m Working On**  
+Currently focused on the “100 Days of Code – Python Bootcamp” by Dr. Angela Yu.  
+I'm learning one step at a time and documenting the process — wins, setbacks, and everything in between.
+
+🐍 **Learning Focus**  
+- Python (primary language)
+
+📈 **Goals**  
+- Build technical depth through consistent practice  
+- Develop real-world projects  
+- Earn with code and grow professionally  
+
+📬 **Let’s Connect**  
+[LinkedIn](https://www.linkedin.com/in/nupur-j-a78762305/)  
 
 ---
 
-### 💡 What I'm Learning & Working On:
-
-📌 **Python Development** – Exploring Data Structures, Algorithms, and Frameworks  
-📌 **100 Days of Code** – Completing projects daily to enhance my skills  
-
-
+🧠 *restart-42 isn't just a project name — it's a personal operating system upgrade.*
